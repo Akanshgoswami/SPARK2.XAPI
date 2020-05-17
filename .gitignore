@@ -1,9 +1,3 @@
-*.class
-*.log
-*.xml
-.classpath
-project/
-.settings/
-*/target/*
-target/*
 .idea/
+project/
+target/
